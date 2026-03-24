@@ -350,20 +350,19 @@
 		data-flex-basis="160px"
 	
 ></p>
-<p><img src="/p/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/assets/2.jpg"
-	width="667"
-	height="1000"
-	srcset="/p/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/assets/2_hu_41819e288bf4a8c0.jpg 480w, /p/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/assets/2_hu_1277885c87f69490.jpg 1024w"
+<p><img src="/assets/2.jpg"
+	
+	
+	
 	loading="lazy"
 	
 		alt="2"
 	
 	
-		class="gallery-image" 
-		data-flex-grow="66"
-		data-flex-basis="160px"
-	
 ></p>
+<hr>
+<p>解决图片不显示的原因</p>
+<p>因为<strong>主文件不是<code>index.md</code></strong>，导致Hugo未将<code>content/post/cs/</code>下的图片识别为“Page Resources”。<strong>只需将<code>cs.md</code>重命名为<code>index.md</code></strong>，保持第2张图中的相对路径引用（<code>![2](2-1750676276954-1.jpg)</code>），即可彻底解决问题。</p>
 
 </section>
 

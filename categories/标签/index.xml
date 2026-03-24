@@ -54,20 +54,19 @@
 		data-flex-basis=&#34;160px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cloudinklover.github.io/p/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/assets/2.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://cloudinklover.github.io/p/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/assets/2_hu_41819e288bf4a8c0.jpg 480w, https://cloudinklover.github.io/p/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/assets/2_hu_1277885c87f69490.jpg 1024w&#34;
+&lt;p&gt;&lt;img src=&#34;https://cloudinklover.github.io/assets/2.jpg&#34;
+	
+	
+	
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;2&#34;
 	
 	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
 &gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;解决图片不显示的原因&lt;/p&gt;
+&lt;p&gt;因为&lt;strong&gt;主文件不是&lt;code&gt;index.md&lt;/code&gt;&lt;/strong&gt;，导致Hugo未将&lt;code&gt;content/post/cs/&lt;/code&gt;下的图片识别为“Page Resources”。&lt;strong&gt;只需将&lt;code&gt;cs.md&lt;/code&gt;重命名为&lt;code&gt;index.md&lt;/code&gt;&lt;/strong&gt;，保持第2张图中的相对路径引用（&lt;code&gt;![2](2-1750676276954-1.jpg)&lt;/code&gt;），即可彻底解决问题。&lt;/p&gt;
 </description>
         </item>
         
