@@ -5,7 +5,7 @@
         <link>https://cloudinklover.github.io/categories/%E6%A0%87%E7%AD%BE/</link>
         <description>Recent content in 标签 on 心海寻锚的决行怪侠</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
+        <language>en-us</language>
         <copyright>Example Person</copyright>
         <lastBuildDate>Mon, 23 Jun 2025 16:09:53 +0800</lastBuildDate><atom:link href="https://cloudinklover.github.io/categories/%E6%A0%87%E7%AD%BE/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>文章标题</title>
@@ -39,7 +39,8 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;测试md同级图片显示效果：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cloudinklover.github.io/2.jpg&#34;
+&lt;p&gt;省略掉&lt;strong&gt;修改引用路径&lt;/strong&gt;（用&lt;strong&gt;相对路径&lt;/strong&gt;，无需&lt;code&gt;./&lt;/code&gt;，Hugo自动处理）：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cloudinklover.github.io/2-1750676276954-1.jpg&#34;
 	
 	
 	
