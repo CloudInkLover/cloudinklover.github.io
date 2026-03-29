@@ -8,12 +8,12 @@
         <language>en-us</language>
         <copyright>Example Person</copyright>
         <lastBuildDate>Wed, 01 Oct 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://cloudinklover.github.io/tags/hugo-%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hugo 标题设置指南</title>
-        <link>https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/</link>
+        <title>Hugo 测试编写内容</title>
+        <link>https://cloudinklover.github.io/p/hugo-%E6%B5%8B%E8%AF%95%E7%BC%96%E5%86%99%E5%86%85%E5%AE%B9/</link>
         <pubDate>Wed, 01 Oct 2025 10:00:00 +0800</pubDate>
         
-        <guid>https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/</guid>
-        <description>&lt;img src="https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/assets/2.jpg" alt="Featured image of post Hugo 标题设置指南" /&gt;&lt;h3 id=&#34;测试&#34;&gt;测试
+        <guid>https://cloudinklover.github.io/p/hugo-%E6%B5%8B%E8%AF%95%E7%BC%96%E5%86%99%E5%86%85%E5%AE%B9/</guid>
+        <description>&lt;img src="https://cloudinklover.github.io/p/hugo-%E6%B5%8B%E8%AF%95%E7%BC%96%E5%86%99%E5%86%85%E5%AE%B9/assets/2.jpg" alt="Featured image of post Hugo 测试编写内容" /&gt;&lt;h3 id=&#34;测试&#34;&gt;测试
 &lt;/h3&gt;&lt;p&gt;测试正文&lt;/p&gt;
 &lt;p&gt;测试图片&lt;/p&gt;
 &lt;ol&gt;
@@ -30,10 +30,10 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;测试md同级图片显示效果：&lt;/p&gt;
 &lt;p&gt;省略掉&lt;strong&gt;修改引用路径&lt;/strong&gt;（用&lt;strong&gt;相对路径&lt;/strong&gt;，无需&lt;code&gt;./&lt;/code&gt;，Hugo自动处理）：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/2-1750676276954-1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://cloudinklover.github.io/p/hugo-%E6%B5%8B%E8%AF%95%E7%BC%96%E5%86%99%E5%86%85%E5%AE%B9/2-1750676276954-1.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/2-1750676276954-1_hu_41819e288bf4a8c0.jpg 480w, https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/2-1750676276954-1_hu_1277885c87f69490.jpg 1024w&#34;
+	srcset=&#34;https://cloudinklover.github.io/p/hugo-%E6%B5%8B%E8%AF%95%E7%BC%96%E5%86%99%E5%86%85%E5%AE%B9/2-1750676276954-1_hu_41819e288bf4a8c0.jpg 480w, https://cloudinklover.github.io/p/hugo-%E6%B5%8B%E8%AF%95%E7%BC%96%E5%86%99%E5%86%85%E5%AE%B9/2-1750676276954-1_hu_1277885c87f69490.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;2&#34;
@@ -44,10 +44,10 @@
 		data-flex-basis=&#34;160px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/assets/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://cloudinklover.github.io/p/hugo-%E6%B5%8B%E8%AF%95%E7%BC%96%E5%86%99%E5%86%85%E5%AE%B9/assets/2.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/assets/2_hu_41819e288bf4a8c0.jpg 480w, https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/assets/2_hu_1277885c87f69490.jpg 1024w&#34;
+	srcset=&#34;https://cloudinklover.github.io/p/hugo-%E6%B5%8B%E8%AF%95%E7%BC%96%E5%86%99%E5%86%85%E5%AE%B9/assets/2_hu_41819e288bf4a8c0.jpg 480w, https://cloudinklover.github.io/p/hugo-%E6%B5%8B%E8%AF%95%E7%BC%96%E5%86%99%E5%86%85%E5%AE%B9/assets/2_hu_1277885c87f69490.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;2&#34;
