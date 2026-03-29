@@ -7,29 +7,29 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 23 Jun 2025 16:09:53 +0800</lastBuildDate><atom:link href="https://cloudinklover.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>标签</title>
-        <link>https://cloudinklover.github.io/categories/%E6%A0%87%E7%AD%BE/</link>
-        <pubDate>Mon, 23 Jun 2025 16:09:53 +0800</pubDate>
+        <lastBuildDate>Wed, 01 Oct 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://cloudinklover.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo</title>
+        <link>https://cloudinklover.github.io/categories/hugo/</link>
+        <pubDate>Wed, 01 Oct 2025 10:00:00 +0800</pubDate>
         
-        <guid>https://cloudinklover.github.io/categories/%E6%A0%87%E7%AD%BE/</guid>
+        <guid>https://cloudinklover.github.io/categories/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>技术</title>
+        <link>https://cloudinklover.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
+        <pubDate>Wed, 01 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cloudinklover.github.io/categories/%E6%8A%80%E6%9C%AF/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
         <link>https://cloudinklover.github.io/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://cloudinklover.github.io/categories/test/</guid>
         <description>&lt;img src="https://cloudinklover.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>测试</title>
-        <link>https://cloudinklover.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://cloudinklover.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
-        <description></description>
         </item>
         
     </channel>

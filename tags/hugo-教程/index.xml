@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on 心海寻锚的决行怪侠</title>
-        <link>https://cloudinklover.github.io/post/</link>
-        <description>Recent content in Posts on 心海寻锚的决行怪侠</description>
+        <title>Hugo 教程 on 心海寻锚的决行怪侠</title>
+        <link>https://cloudinklover.github.io/tags/hugo-%E6%95%99%E7%A8%8B/</link>
+        <description>Recent content in Hugo 教程 on 心海寻锚的决行怪侠</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 01 Oct 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://cloudinklover.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Oct 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://cloudinklover.github.io/tags/hugo-%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo 标题设置指南</title>
         <link>https://cloudinklover.github.io/p/hugo-%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/</link>
         <pubDate>Wed, 01 Oct 2025 10:00:00 +0800</pubDate>

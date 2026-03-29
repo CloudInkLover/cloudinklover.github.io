@@ -6,6 +6,23 @@
         <description>Recent content in Tags on 心海寻锚的决行怪侠</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <copyright>Example Person</copyright><atom:link href="https://cloudinklover.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Wed, 01 Oct 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://cloudinklover.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo 教程</title>
+        <link>https://cloudinklover.github.io/tags/hugo-%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Wed, 01 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cloudinklover.github.io/tags/hugo-%E6%95%99%E7%A8%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>静态博客</title>
+        <link>https://cloudinklover.github.io/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Wed, 01 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cloudinklover.github.io/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
